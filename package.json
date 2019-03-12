@@ -1,0 +1,27 @@
+{
+  "name": "async-pizza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfiku/async-pizza.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfiku/async-pizza/issues"
+  },
+  "homepage": "https://github.com/kfiku/async-pizza#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0"
+  }
+}
